@@ -37,63 +37,63 @@ whoami:
   <tr>
     <td align="center" width="160"><b>🔌 Embedded & Systems</b></td>
     <td>
-      <img src="assets/icons/c.png" width="76" height="82" alt="C" title="C"/>
-      <img src="assets/icons/raspberrypi.png" width="76" height="82" alt="Raspberry Pi" title="Raspberry Pi"/>
-      <img src="assets/icons/linux.png" width="76" height="82" alt="Linux" title="Linux"/>
-      <img src="assets/icons/arch.png" width="76" height="82" alt="Arch" title="Arch"/>
-      <img src="assets/icons/bash.png" width="76" height="82" alt="Bash" title="Bash"/>
-      <img src="assets/icons/vim.png" width="76" height="82" alt="Vim" title="Vim"/>
-      <img src="assets/icons/ti.png" width="76" height="82" alt="Texas Instruments" title="Texas Instruments"/>
-      <img src="assets/icons/yocto.png" width="76" height="82" alt="Yocto" title="Yocto"/>
+      <img src="assets/stack/c.png" width="76" height="82" alt="C" title="C"/>
+      <img src="assets/stack/raspberrypi.png" width="76" height="82" alt="Raspberry Pi" title="Raspberry Pi"/>
+      <img src="assets/stack/linux.png" width="76" height="82" alt="Linux" title="Linux"/>
+      <img src="assets/stack/arch.png" width="76" height="82" alt="Arch" title="Arch"/>
+      <img src="assets/stack/bash.png" width="76" height="82" alt="Bash" title="Bash"/>
+      <img src="assets/stack/vim.png" width="76" height="82" alt="Vim" title="Vim"/>
+      <img src="assets/stack/ti.png" width="76" height="82" alt="Texas Instruments" title="Texas Instruments"/>
+      <img src="assets/stack/yocto.png" width="76" height="82" alt="Yocto" title="Yocto"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🛸 Drones & Video</b></td>
     <td>
-      <img src="assets/icons/ardupilot.png" width="76" height="82" alt="ArduPilot" title="ArduPilot"/>
-      <img src="assets/icons/mavlink.png" width="76" height="82" alt="MAVLink" title="MAVLink"/>
-      <img src="assets/icons/webrtc.png" width="76" height="82" alt="WebRTC" title="WebRTC"/>
-      <img src="assets/icons/gstreamer.png" width="76" height="82" alt="GStreamer" title="GStreamer"/>
+      <img src="assets/stack/ardupilot.png" width="76" height="82" alt="ArduPilot" title="ArduPilot"/>
+      <img src="assets/stack/mavlink.png" width="76" height="82" alt="MAVLink" title="MAVLink"/>
+      <img src="assets/stack/webrtc.png" width="76" height="82" alt="WebRTC" title="WebRTC"/>
+      <img src="assets/stack/gstreamer.png" width="76" height="82" alt="GStreamer" title="GStreamer"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ Backend</b></td>
     <td>
-      <img src="assets/icons/go.png" width="76" height="82" alt="Go" title="Go"/>
-      <img src="assets/icons/java.png" width="76" height="82" alt="Java" title="Java"/>
-      <img src="assets/icons/spring.png" width="76" height="82" alt="Spring" title="Spring"/>
-      <img src="assets/icons/nodejs.png" width="76" height="82" alt="Node.js" title="Node.js"/>
+      <img src="assets/stack/go.png" width="76" height="82" alt="Go" title="Go"/>
+      <img src="assets/stack/java.png" width="76" height="82" alt="Java" title="Java"/>
+      <img src="assets/stack/spring.png" width="76" height="82" alt="Spring" title="Spring"/>
+      <img src="assets/stack/nodejs.png" width="76" height="82" alt="Node.js" title="Node.js"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🎨 Frontend</b></td>
     <td>
-      <img src="assets/icons/ts.png" width="76" height="82" alt="TypeScript" title="TypeScript"/>
-      <img src="assets/icons/react.png" width="76" height="82" alt="React" title="React"/>
-      <img src="assets/icons/nextjs.png" width="76" height="82" alt="Next.js" title="Next.js"/>
-      <img src="assets/icons/tailwind.png" width="76" height="82" alt="Tailwind" title="Tailwind"/>
+      <img src="assets/stack/ts.png" width="76" height="82" alt="TypeScript" title="TypeScript"/>
+      <img src="assets/stack/react.png" width="76" height="82" alt="React" title="React"/>
+      <img src="assets/stack/nextjs.png" width="76" height="82" alt="Next.js" title="Next.js"/>
+      <img src="assets/stack/tailwind.png" width="76" height="82" alt="Tailwind" title="Tailwind"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🗄️ Data</b></td>
     <td>
-      <img src="assets/icons/sqlite.png" width="76" height="82" alt="SQLite" title="SQLite"/>
-      <img src="assets/icons/mongodb.png" width="76" height="82" alt="MongoDB" title="MongoDB"/>
+      <img src="assets/stack/sqlite.png" width="76" height="82" alt="SQLite" title="SQLite"/>
+      <img src="assets/stack/mongodb.png" width="76" height="82" alt="MongoDB" title="MongoDB"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>☁️ DevOps</b></td>
     <td>
-      <img src="assets/icons/docker.png" width="76" height="82" alt="Docker" title="Docker"/>
-      <img src="assets/icons/kubernetes.png" width="76" height="82" alt="Kubernetes" title="Kubernetes"/>
-      <img src="assets/icons/aws.png" width="76" height="82" alt="AWS" title="AWS"/>
+      <img src="assets/stack/docker.png" width="76" height="82" alt="Docker" title="Docker"/>
+      <img src="assets/stack/kubernetes.png" width="76" height="82" alt="Kubernetes" title="Kubernetes"/>
+      <img src="assets/stack/aws.png" width="76" height="82" alt="AWS" title="AWS"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🧊 Design & CAD</b></td>
     <td>
-      <img src="assets/icons/figma.png" width="76" height="82" alt="Figma" title="Figma"/>
-      <img src="assets/icons/blender.png" width="76" height="82" alt="Blender" title="Blender"/>
+      <img src="assets/stack/figma.png" width="76" height="82" alt="Figma" title="Figma"/>
+      <img src="assets/stack/blender.png" width="76" height="82" alt="Blender" title="Blender"/>
     </td>
   </tr>
 </table>
