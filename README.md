@@ -36,7 +36,20 @@ whoami:
 <table align="center">
   <tr>
     <td align="center" width="160"><b>🔌 Embedded & Systems</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,raspberrypi,linux,arch,bash,vim&theme=dark" alt="embedded"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,raspberrypi,linux,arch,bash,vim&theme=dark" alt="embedded"/><br/>
+      <img src="https://img.shields.io/badge/Texas_Instruments-c4122f?style=for-the-badge" alt="Texas Instruments"/>
+      <img src="https://img.shields.io/badge/Yocto_Project-1f6fb5?style=for-the-badge" alt="Yocto Project"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛸 Drones & Video</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ArduPilot-2e8b57?style=for-the-badge" alt="ArduPilot"/>
+      <img src="https://img.shields.io/badge/MAVLink-0b5394?style=for-the-badge" alt="MAVLink"/>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+      <img src="https://img.shields.io/badge/GStreamer-b5291c?style=for-the-badge&logo=gstreamer&logoColor=white" alt="GStreamer"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ Backend</b></td>
@@ -48,7 +61,7 @@ whoami:
   </tr>
   <tr>
     <td align="center"><b>🗄️ Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb&theme=dark" alt="data"/></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,mongodb&theme=dark" alt="data"/></td>
   </tr>
   <tr>
     <td align="center"><b>☁️ DevOps</b></td>
@@ -64,7 +77,7 @@ whoami:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neliq&theme=tokyonight" width="100%" alt="profile details"/>
+  <img src="https://ghchart.rshah.org/7aa2f7/Neliq" width="100%" alt="contribution chart"/>
 </p>
 
 <p align="center">
