@@ -37,18 +37,18 @@ whoami:
   <tr>
     <td align="center" width="160"><b>🔌 Embedded & Systems</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,raspberrypi,linux,arch,bash,vim&theme=dark" alt="embedded"/><br/>
-      <img src="https://img.shields.io/badge/Texas_Instruments-c4122f?style=for-the-badge" alt="Texas Instruments"/>
-      <img src="https://img.shields.io/badge/Yocto_Project-1f6fb5?style=for-the-badge" alt="Yocto Project"/>
+      <img src="https://skillicons.dev/icons?i=c,raspberrypi,linux,arch,bash,vim&theme=dark" alt="embedded"/>
+      &nbsp;<img src="assets/icons/ti.png" width="48" height="48" alt="Texas Instruments" title="Texas Instruments"/>
+      &nbsp;<img src="assets/icons/yocto.png" width="48" height="48" alt="Yocto Project" title="Yocto Project"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🛸 Drones & Video</b></td>
     <td>
-      <img src="https://img.shields.io/badge/ArduPilot-2e8b57?style=for-the-badge" alt="ArduPilot"/>
-      <img src="https://img.shields.io/badge/MAVLink-0b5394?style=for-the-badge" alt="MAVLink"/>
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
-      <img src="https://img.shields.io/badge/GStreamer-b5291c?style=for-the-badge&logo=gstreamer&logoColor=white" alt="GStreamer"/>
+      <img src="assets/icons/ardupilot.png" width="48" height="48" alt="ArduPilot" title="ArduPilot"/>
+      &nbsp;<img src="assets/icons/mavlink.png" width="48" height="48" alt="MAVLink" title="MAVLink"/>
+      &nbsp;<img src="assets/icons/webrtc.png" width="48" height="48" alt="WebRTC" title="WebRTC"/>
+      &nbsp;<img src="assets/icons/gstreamer.png" width="48" height="48" alt="GStreamer" title="GStreamer"/>
     </td>
   </tr>
   <tr>
@@ -77,20 +77,7 @@ whoami:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7aa2f7/Neliq" width="100%" alt="contribution chart"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Neliq&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak"/>
-</p>
-
-<!-- ───────────── SNAKE ───────────── -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neliq/Neliq/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neliq/Neliq/output/snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Neliq/Neliq/output/snake-dark.svg"/>
-  </picture>
 </p>
 
 <!-- ───────────── FOOTER ───────────── -->
