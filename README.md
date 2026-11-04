@@ -37,39 +37,64 @@ whoami:
   <tr>
     <td align="center" width="160"><b>🔌 Embedded & Systems</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,raspberrypi,linux,arch,bash,vim&theme=dark" alt="embedded"/>
-      &nbsp;<img src="assets/icons/ti.png" width="48" height="48" alt="Texas Instruments" title="Texas Instruments"/>
-      &nbsp;<img src="assets/icons/yocto.png" width="48" height="48" alt="Yocto Project" title="Yocto Project"/>
+      <img src="assets/icons/c.png" width="76" height="82" alt="C" title="C"/>
+      <img src="assets/icons/raspberrypi.png" width="76" height="82" alt="Raspberry Pi" title="Raspberry Pi"/>
+      <img src="assets/icons/linux.png" width="76" height="82" alt="Linux" title="Linux"/>
+      <img src="assets/icons/arch.png" width="76" height="82" alt="Arch" title="Arch"/>
+      <img src="assets/icons/bash.png" width="76" height="82" alt="Bash" title="Bash"/>
+      <img src="assets/icons/vim.png" width="76" height="82" alt="Vim" title="Vim"/>
+      <img src="assets/icons/ti.png" width="76" height="82" alt="Texas Instruments" title="Texas Instruments"/>
+      <img src="assets/icons/yocto.png" width="76" height="82" alt="Yocto" title="Yocto"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>🛸 Drones & Video</b></td>
     <td>
-      <img src="assets/icons/ardupilot.png" width="48" height="48" alt="ArduPilot" title="ArduPilot"/>
-      &nbsp;<img src="assets/icons/mavlink.png" width="48" height="48" alt="MAVLink" title="MAVLink"/>
-      &nbsp;<img src="assets/icons/webrtc.png" width="48" height="48" alt="WebRTC" title="WebRTC"/>
-      &nbsp;<img src="assets/icons/gstreamer.png" width="48" height="48" alt="GStreamer" title="GStreamer"/>
+      <img src="assets/icons/ardupilot.png" width="76" height="82" alt="ArduPilot" title="ArduPilot"/>
+      <img src="assets/icons/mavlink.png" width="76" height="82" alt="MAVLink" title="MAVLink"/>
+      <img src="assets/icons/webrtc.png" width="76" height="82" alt="WebRTC" title="WebRTC"/>
+      <img src="assets/icons/gstreamer.png" width="76" height="82" alt="GStreamer" title="GStreamer"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,java,spring,nodejs&theme=dark" alt="backend"/></td>
+    <td>
+      <img src="assets/icons/go.png" width="76" height="82" alt="Go" title="Go"/>
+      <img src="assets/icons/java.png" width="76" height="82" alt="Java" title="Java"/>
+      <img src="assets/icons/spring.png" width="76" height="82" alt="Spring" title="Spring"/>
+      <img src="assets/icons/nodejs.png" width="76" height="82" alt="Node.js" title="Node.js"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" alt="frontend"/></td>
+    <td>
+      <img src="assets/icons/ts.png" width="76" height="82" alt="TypeScript" title="TypeScript"/>
+      <img src="assets/icons/react.png" width="76" height="82" alt="React" title="React"/>
+      <img src="assets/icons/nextjs.png" width="76" height="82" alt="Next.js" title="Next.js"/>
+      <img src="assets/icons/tailwind.png" width="76" height="82" alt="Tailwind" title="Tailwind"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🗄️ Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite,mongodb&theme=dark" alt="data"/></td>
+    <td>
+      <img src="assets/icons/sqlite.png" width="76" height="82" alt="SQLite" title="SQLite"/>
+      <img src="assets/icons/mongodb.png" width="76" height="82" alt="MongoDB" title="MongoDB"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>☁️ DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="devops"/></td>
+    <td>
+      <img src="assets/icons/docker.png" width="76" height="82" alt="Docker" title="Docker"/>
+      <img src="assets/icons/kubernetes.png" width="76" height="82" alt="Kubernetes" title="Kubernetes"/>
+      <img src="assets/icons/aws.png" width="76" height="82" alt="AWS" title="AWS"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🧊 Design & CAD</b></td>
-    <td><img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="design"/></td>
+    <td>
+      <img src="assets/icons/figma.png" width="76" height="82" alt="Figma" title="Figma"/>
+      <img src="assets/icons/blender.png" width="76" height="82" alt="Blender" title="Blender"/>
+    </td>
   </tr>
 </table>
 
